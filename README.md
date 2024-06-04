@@ -1,7 +1,7 @@
 # Generative-Models-for-Visual-Signals
 
 ### GAI Project 4
-本次Project皆是以*Jupyter Notebooks*做進行
+本次Project是以*Jupyter Notebooks*做進行，目標是結合DIP與DDPM兩者去產生更好的訓練成果。
 
 以下是一些環境上的建置
 
