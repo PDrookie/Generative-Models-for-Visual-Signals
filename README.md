@@ -1,7 +1,7 @@
 # Generative-Models-for-Visual-Signals
 
 ### GAI Project 4
-本次Project是以*Jupyter Notebooks*做進行，目標是以DDPM的監督信息輔佐DIP模型尋找更好的時停點，藉著兩者相輔相成去產生更好的訓練成果。
+本次Project是以*Jupyter Notebooks*做進行，目標是以類DDPM的監督信息輔佐DIP模型尋找更好的時停點，藉著兩者相輔相成去產生更好的訓練成果。
 
 以下是一些環境上的建置
 
