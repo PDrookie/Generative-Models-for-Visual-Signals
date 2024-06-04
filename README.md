@@ -1,6 +1,6 @@
 # Generative-Models-for-Visual-Signals
-GAI Project 4
 
+### GAI Project 4
 本次Project皆是以*Jupyter Notebooks*做進行
 
 以下是一些環境上的建置
