@@ -18,7 +18,7 @@ GAI Project 4
 - imageio
 - jupyter
 
-他們也可以透過`conda` (`anaconda`)來執行, e.g.
+也可以選擇透過`conda` (`anaconda`)來執行, e.g.
 ```
 conda install jupyter
 ```
