@@ -25,7 +25,7 @@ conda install jupyter
 
 ## Google Colab & Kaggle
 
-你可以選擇使用Google Colab或Kaggle，並選擇你希望執行的notebook上傳，之後即可開始執行。
+你也可以選擇使用Google Colab或Kaggle，並將你選擇執行的notebook檔案上傳，即可開始執行。
 
 
 ## 備註
